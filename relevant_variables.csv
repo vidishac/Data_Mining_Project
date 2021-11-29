@@ -1,0 +1,44 @@
+﻿Variable Names,Description,Type
+AGEP_A,Age of SA,Continuous
+ANXEV_A,Any type of anxiety disorder?,Categorical
+ANXFREQ_A,"How often feel worried, nervous, or anxious",Categorical
+ANXMED_A,Take medication for worried/nervous/anxious feelings,Categorical
+ARTHEV_A,Ever had arthritis,Categorical
+BMICAT_A,"Categorical body mass index, public use",Categorical
+CHDEV_A,Ever been told you had coronary heart disease,Categorical
+CHLEV_A,Ever told you had high cholesterol,Categorical
+COGMEMDFF_A,Do you have difficulty remembering or concentrating?,Categorical
+COPDEV_A,"Ever been told you had COPD, emphysema, or chronic bronchitis?",Categorical
+DEMENEV_A,Ever had dementia,Categorical
+DEPEV_A,Ever had depression,Categorical
+DEPFREQ_A,How often depressed,Categorical
+DEPMED_A,Take medication for depression,Categorical
+DIBEV_A,Ever had diabetes,Categorical
+DRKSTAT_A,Alcohol drinking status,Categorical
+EDUC_A,Educational level of sample adult,Categorical
+EMERG12MTC_A,"Number of times visited hospital emergency room, past 12m, top-coded",Continuous
+FAMINCTC_A,Sample adult family income,Continuous
+FGEFRQTRD_A,"How often tired, past 3m",Categorical
+FUNWLK_A,Fun place to walk where you live,Categorical
+HYPEV_A,Ever been told you had hypertension,Categorical
+INCGRP_A,Sample adult family income (grouped),Categorical
+INCWELF_A,Income from public assistance,Categorical
+MARSTAT_A,Current Marital Status,Categorical
+MHTHRPY_A,"Received counseling/therapy from mental health professional, past 12m",Categorical
+MODFREQW_A,Frequency of moderate physical activity,Continuous
+NOTCOV_A,Coverage status as used in Health United States,Categorical
+ORIENT_A,Sexual orientation,Categorical
+PEOPLEWLK_A,How often are people walking in front of home,Categorical
+RACEALLP_A,Single and multiple race groups,Categorical
+REGION,Household region,Categorical
+SCHCURENR_A,Currently in school,Categorical
+SEX_A,Sex,Categorical
+SLPFLL_A,"Trouble falling asleep, past 30 days",Categorical
+SLPHOURS_A,Hours of sleep in a 24-hour period,Categorical
+SLPREST_A,"Wake up well rested, past 30 days",Categorical
+SLPSTY_A,"Trouble staying asleep, past 30 days",Categorical
+SMKCIGST_A,Cigarette smoking status,Categorical
+SOCSCLPAR_A,Difficulty participating in social activities,Categorical
+STRFREQW_A,Frequency of strengthening physical activity (times per week),Continuous
+URBRRL,2013 NCHS Urban-Rural Classification Scheme for Counties,Categorical
+VIGFREQW_A,Frequency of vigorous physical activity,Continuous
